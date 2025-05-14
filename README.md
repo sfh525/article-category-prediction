@@ -13,4 +13,4 @@ The dataset comes from this Kaggle dataset: https://www.kaggle.com/datasets/aash
 There were 2 approaches that we worked on, each with their varying results. The traditional TensorFlow/Torch model could only achieve an F1 score of 0.1, while the BERT pretrained model achieves an F1 score of 0.71. Potential improvements include larger dataset, more sophisticated model, and setting less neurons to prevent overfitting. 
 
 ## Runnning the Notebook
-This notebook can be run in any environment you would like. Make sure to match the directory of the dataset and install all the necessary dependencies. # article-category-prediction
+This notebook can be run in any environment you would like. Make sure to match the directory of the dataset and install all the necessary dependencies.
