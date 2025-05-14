@@ -4,7 +4,7 @@
 Credits goes to my colleague Bambang Abhinawa Pinakasakti for contributing to this project. 
 
 ## Intro
-This project is meant to be used as a learning opportunity to familiarize myself with processing text and working with deep learning libraries such as Torch and TensorFlow. It is part of the project that members of Data Science and Artificial.
+This project is meant to be used as a learning opportunity to familiarize ourselves with processing text and working with deep learning libraries such as Torch and TensorFlow. It is part of the project that members of Data Science and Artificial.
 
 ## Dataset
 The dataset comes from this Kaggle dataset: https://www.kaggle.com/datasets/aashita/nyt-comments
